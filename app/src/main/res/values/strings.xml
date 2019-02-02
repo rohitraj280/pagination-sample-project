@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RohitMoviesApp</string>
+
+    <!-- Menu title -->
+
+    <string name="movie_detail">Detail</string>
+    <string name="movies_info">Movies Info</string>
+    <string name="movie_detail_fetch_fail">Failed to fetch movie detail…</string>
+    <string name="release_date">%d-%d-%d</string>
+    <string name="release_date_text">Release date : %s</string>
+    <string name="rating">Movie Rating : %s</string>
+    <string name="wrong_filter_selected">Min Date should be less than Max Date</string>
+    <string name="error">Could not fetch movie list. Try later !!!</string>
+    <string name="select_min_year">Select Min Year</string>
+    <string name="select_max_year">Select Max Year</string>
+    <string name="apply_filter">Apply Filter</string>
+
+
+</resources>
